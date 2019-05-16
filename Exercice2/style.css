@@ -1,0 +1,14 @@
+#divService1
+{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    float: left;
+}
+#divService2
+{
+    width: 200px;
+    height: 200px;
+    background-color:chartreuse;
+    float: left;
+}
